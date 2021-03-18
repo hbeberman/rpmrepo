@@ -1,0 +1,6 @@
+[selfhost-repo]
+name=Selfhost Build Repo (out/RPMS)
+baseurl=http://<Host IP Address>:8000
+enabled=1
+gpgcheck=0
+sslverify=0
